@@ -1,0 +1,53 @@
+{% extends "header.html" %}
+{% load static %}
+<!--Navabar start-->
+
+{% block nav %}
+
+<body onload="navlinkActiveInactive()">
+
+    <ul class="nav nav-tabs justify-content-center text-bg-warning p-3">
+        <li class="nav-item">
+            <a class="nav-link" aria-current="page" href="/render?mode=corruption&id=1" id="1">Corruption Rate</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="/render?mode=crimerate&id=2" id="2">Crime Rate</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="/render?mode=development_index&id=3" id="3">Development Index</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="/render?mode=gdp&id=4" id="4">GDP</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="/render?mode=literacy&id=5" id="5">Literacy Rate</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="/render?mode=internet_users&id=6" id="6">Internet User</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="/render?mode=pollution&id=7" id="7">Pollution Contribution</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="/render?mode=population&id=8" id="8">Population</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="/render?mode=poverty&id=9" id="9">Poverty</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="/render?mode=unemployment&id=10" id="10">Unemployment Rate</a>
+        </li>
+    </ul>
+    <!--Navabar ends-->
+    {% block body %}
+
+    {% endblock body %}
+</body>
+<script>
+        function navlinkActiveInactive() {
+        $('.nav-link').removeClass("active");
+        $('#{{id}}').addClass("active");
+    }
+</script>
+</html>
+{% endblock nav %}

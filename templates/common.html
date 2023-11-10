@@ -1,0 +1,41 @@
+{% extends "navbar.html" %} {% load static %} {% block body %}
+<form action="/{{mode}}">
+    <div class="container text-center my-5">
+        <div class="row">
+            <div class="col-md-6 offset-md-3">Please fill below value or select range in order to proceed or to visulize
+                the
+                data for {{title}}</div>
+        </div>
+    </div>
+    <div class="container text-center my-5">
+        <div class="row justify-content-evenly">
+            <div class="col-4">
+                <h5 class="card-title">Please Select Country:</h5>
+                <select class="form-select" aria-label="Default select example" name="country">
+                    <option selected>Open this select menu</option>
+                    {% for country in countries %}
+                    <option value="{{ country }}">{{ country }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+        </div>
+    </div>
+
+    <div class="container text-center my-5">
+        <div class="row justify-content-evenly">
+            <div class="col-4">
+                <label for="customRange1" class="form-label">Select Date Range</label>
+                <input type="range" class="form-range" id="customRange1">
+            </div>
+        </div>
+    </div>
+
+    <div class="container text-center my-5">
+        <div class="row justify-content-evenly">
+            <div class="col-4">
+                <button type="submit" class="btn btn-outline-success">Visulize</button>
+            </div>
+        </div>
+    </div>
+</form>
+{% endblock body %}

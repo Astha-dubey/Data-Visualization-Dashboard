@@ -1,0 +1,765 @@
+year,country,crime_rate,safe_rate
+2023,Venezuela,84.5,15.5
+2023,Papua New Guinea,81.9,18.1
+2023,South Africa,77.5,22.5
+2023,Afghanistan,76.2,23.8
+2023,Honduras,76.1,23.9
+2023,Trinidad And Tobago,73.2,26.8
+2023,Brazil,68.9,31.1
+2023,Peru,68.2,31.8
+2023,El Salvador,68.0,32.0
+2023,Guyana,67.7,32.3
+2023,Namibia,67.2,32.8
+2023,Syria,66.5,33.5
+2023,Jamaica,66.0,34.0
+2023,Puerto Rico,65.6,34.4
+2023,Angola,65.0,35.0
+2023,Bangladesh,63.9,36.1
+2023,Nigeria,63.8,36.2
+2023,Bahamas,62.9,37.1
+2023,Libya,62.2,37.8
+2023,Kazakhstan,62.0,38.0
+2023,Argentina,61.8,38.2
+2023,Kenya,61.7,38.3
+2023,Dominican Republic,61.2,38.8
+2023,Uganda,59.0,41.0
+2023,Tanzania,59.0,41.0
+2023,Fiji,58.9,41.1
+2023,Malaysia,58.8,41.2
+2023,Somalia,58.5,41.5
+2023,Mongolia,58.0,42.0
+2023,Guatemala,57.8,42.2
+2023,Zimbabwe,57.5,42.5
+2023,Costa Rica,56.3,43.7
+2023,Colombia,54.8,45.2
+2023,Mexico,54.0,46.0
+2023,Uruguay,53.8,46.2
+2023,Botswana,53.5,46.5
+2023,Maldives,53.2,46.8
+2023,Bolivia,52.9,47.1
+2023,Ecuador,50.9,49.1
+2023,Cambodia,50.7,49.3
+2023,Algeria,49.8,50.2
+2023,Paraguay,49.6,50.4
+2023,Iran,49.3,50.7
+2023,Ethiopia,49.2,50.8
+2023,Ghana,49.0,51.0
+2023,Ukraine,48.9,51.1
+2023,Morocco,48.7,51.3
+2023,Iraq,47.8,52.2
+2023,Mauritius,47.3,52.7
+2023,United States,47.2,52.8
+2023,Panama,47.2,52.8
+2023,Sweden,47.1,52.9
+2023,Egypt,46.9,53.1
+2023,France,46.8,53.2
+2023,Myanmar,45.9,54.1
+2023,Indonesia,45.8,54.2
+2023,Ireland,45.4,54.6
+2023,Vietnam,45.3,54.7
+2023,Chile,45.2,54.8
+2023,Moldova,45.0,55.0
+2023,Nicaragua,44.4,55.6
+2023,Italy,44.3,55.7
+2023,Pakistan,44.1,55.9
+2023,Belgium,44.0,56.0
+2023,United Kingdom,43.7,56.3
+2023,Palestine,43.6,56.4
+2023,Lebanon,43.4,56.6
+2023,India,43.3,56.7
+2023,Bosnia And Herzegovina,43.0,57.0
+2023,Philippines,42.2,57.8
+2023,Tunisia,41.9,58.1
+2023,Australia,41.4,58.6
+2023,Montenegro,41.2,58.8
+2023,Russia,41.1,58.9
+2023,New Zealand,40.9,59.1
+2023,Jordan,40.8,59.2
+2023,Thailand,40.5,59.5
+2023,Greece,40.3,59.7
+2023,Sri Lanka,40.2,59.8
+2023,Canada,39.7,60.3
+2023,Albania,39.5,60.5
+2023,Turkey,39.5,60.5
+2023,Malta,39.0,61.0
+2023,North Macedonia,38.7,61.3
+2023,Bulgaria,38.5,61.5
+2023,Serbia,37.4,62.6
+2023,Latvia,37.0,63.0
+2023,Norway,35.4,64.6
+2023,Hungary,35.1,64.9
+2023,Germany,34.8,65.2
+2023,Kuwait,34.8,65.2
+2023,Nepal,34.6,65.4
+2023,Luxembourg,33.4,66.6
+2023,Lithuania,33.1,66.9
+2023,Kosovo (Disputed Territory),32.9,67.1
+2023,Spain,32.0,68.0
+2023,China,31.8,68.2
+2023,Azerbaijan,31.6,68.4
+2023,Singapore,30.6,69.4
+2023,Cyprus,30.0,70.0
+2023,Portugal,29.6,70.4
+2023,Israel,29.6,70.4
+2023,Bahrain,29.3,70.7
+2023,Slovakia,29.2,70.8
+2023,Poland,28.5,71.5
+2023,South Korea,28.0,72.0
+2023,Brunei,27.7,72.3
+2023,Romania,27.6,72.4
+2023,Netherlands,27.6,72.4
+2023,Cuba,27.5,72.5
+2023,Saudi Arabia,26.2,73.8
+2023,Czech Republic,25.5,74.5
+2023,Denmark,25.1,74.9
+2023,Belarus,25.0,75.0
+2023,Croatia,24.7,75.3
+2023,Austria,23.7,76.3
+2023,Iceland,23.4,76.6
+2023,Finland,23.3,76.7
+2023,Estonia,23.1,76.9
+2023,Armenia,21.6,78.4
+2023,Switzerland,21.6,78.4
+2023,Slovenia,21.1,78.9
+2023,Oman,20.8,79.2
+2023,Hong Kong,20.7,79.3
+2023,Japan,20.7,79.3
+2023,Georgia,20.2,79.8
+2023,United Arab Emirates,15.7,84.3
+2023,Taiwan,15.7,84.3
+2023,Qatar,11.9,88.1
+2022,Venezuela,84.2,15.8
+2022,Papua New Guinea,80.2,19.8
+2022,South Africa,77.1,22.9
+2022,Afghanistan,76.4,23.6
+2022,Honduras,74.8,25.2
+2022,Trinidad And Tobago,70.9,29.1
+2022,El Salvador,68.8,31.2
+2022,Guyana,68.7,31.3
+2022,Syria,68.1,31.9
+2022,Brazil,67.8,32.2
+2022,Jamaica,67.5,32.5
+2022,Angola,66.6,33.4
+2022,Peru,66.6,33.4
+2022,Namibia,65.9,34.1
+2022,Bangladesh,64.2,35.8
+2022,Nigeria,63.9,36.1
+2022,Puerto Rico,63.4,36.6
+2022,Argentina,63.3,36.7
+2022,Bahamas,62.3,37.7
+2022,Libya,62.0,38.0
+2022,Kenya,61.4,38.6
+2022,Belarus,60.3,39.7
+2022,Dominican Republic,60.1,39.9
+2022,Zimbabwe,58.9,41.1
+2022,Guatemala,58.2,41.8
+2022,Fiji,57.9,42.1
+2022,Malaysia,57.9,42.1
+2022,Tanzania,56.6,43.4
+2022,Uganda,56.1,43.9
+2022,Somalia,56.0,44.0
+2022,Maldives,56.0,44.0
+2022,Colombia,55.8,44.2
+2022,Mongolia,55.6,44.4
+2022,Kyrgyzstan,55.4,44.6
+2022,Bolivia,55.4,44.6
+2022,Costa Rica,55.3,44.7
+2022,Mexico,55.0,45.0
+2022,Ecuador,54.4,45.6
+2022,Kazakhstan,54.0,46.0
+2022,Botswana,52.8,47.2
+2022,Chile,52.1,47.9
+2022,Algeria,51.9,48.1
+2022,Belize,51.3,48.7
+2022,Uruguay,51.2,48.8
+2022,Cambodia,51.2,48.8
+2022,Ethiopia,50.0,50.0
+2022,France,49.2,50.8
+2022,Iran,49.2,50.8
+2022,Morocco,49.1,50.9
+2022,Paraguay,49.0,51.0
+2022,Iraq,48.8,51.2
+2022,Ghana,48.5,51.5
+2022,Nicaragua,48.4,51.6
+2022,Ukraine,48.3,51.7
+2022,Mauritius,47.9,52.1
+2022,United States,47.7,52.3
+2022,Sweden,47.2,52.8
+2022,Myanmar,47.2,52.8
+2022,Lebanon,47.0,53.0
+2022,Egypt,46.8,53.2
+2022,Moldova,46.6,53.4
+2022,Indonesia,46.2,53.8
+2022,Vietnam,46.1,53.9
+2022,Panama,45.8,54.2
+2022,United Kingdom,45.3,54.7
+2022,Ireland,45.0,55.0
+2022,India,44.7,55.3
+2022,Italy,44.4,55.6
+2022,Belgium,44.2,55.8
+2022,Greece,44.1,55.9
+2022,Palestine,44.0,56.0
+2022,Pakistan,43.9,56.1
+2022,Tunisia,43.4,56.6
+2022,Zambia,43.2,56.8
+2022,Bosnia And Herzegovina,43.0,57.0
+2022,Australia,42.4,57.6
+2022,New Zealand,42.3,57.7
+2022,Philippines,42.2,57.8
+2022,Albania,41.6,58.4
+2022,Montenegro,41.6,58.4
+2022,Sri Lanka,41.2,58.8
+2022,Canada,41.2,58.8
+2022,Jordan,40.7,59.3
+2022,Russia,40.1,59.9
+2022,Turkey,39.5,60.5
+2022,Thailand,39.4,60.6
+2022,Malta,38.9,61.1
+2022,North Macedonia,38.6,61.4
+2022,Serbia,38.3,61.7
+2022,Bulgaria,38.1,61.9
+2022,Latvia,37.2,62.8
+2022,Kosovo (Disputed Territory),36.1,63.9
+2022,Nepal,35.7,64.3
+2022,Germany,35.4,64.6
+2022,Hungary,34.8,65.2
+2022,Uzbekistan,34.7,65.3
+2022,Kuwait,34.0,66.0
+2022,Lithuania,33.8,66.2
+2022,Norway,33.4,66.6
+2022,Spain,33.1,66.9
+2022,Singapore,33.0,67.0
+2022,Luxembourg,32.2,67.8
+2022,Cyprus,32.0,68.0
+2022,Azerbaijan,31.7,68.3
+2022,Israel,31.2,68.8
+2022,China,30.2,69.8
+2022,Portugal,29.9,70.1
+2022,Slovakia,29.7,70.3
+2022,Poland,29.3,70.7
+2022,Cuba,29.1,70.9
+2022,Romania,28.3,71.7
+2022,Brunei,28.0,72.0
+2022,Netherlands,27.2,72.8
+2022,Finland,27.0,73.0
+2022,South Korea,26.9,73.1
+2022,Denmark,26.7,73.3
+2022,Bahrain,26.1,73.9
+2022,Saudi Arabia,25.9,74.1
+2022,Czech Republic,25.3,74.7
+2022,Rwanda,25.3,74.7
+2022,Austria,25.2,74.8
+2022,Croatia,24.9,75.1
+2022,Iceland,24.1,75.9
+2022,Estonia,23.4,76.6
+2022,Armenia,23.3,76.7
+2022,Georgia,22.6,77.4
+2022,Japan,22.0,78.0
+2022,Slovenia,21.8,78.2
+2022,Hong Kong,21.7,78.3
+2022,Switzerland,21.3,78.7
+2022,Isle Of Man,20.8,79.2
+2022,Oman,20.3,79.7
+2022,United Arab Emirates,15.4,84.6
+2022,Taiwan,15.2,84.8
+2022,Qatar,12.3,87.7
+2021,Venezuela,83.6,16.4
+2021,Papua New Guinea,81.2,18.8
+2021,Afghanistan,77.0,23.0
+2021,South Africa,76.1,23.9
+2021,Honduras,74.2,25.8
+2021,Trinidad And Tobago,71.4,28.6
+2021,Guyana,68.9,31.1
+2021,El Salvador,68.6,31.4
+2021,Jamaica,67.8,32.2
+2021,Syria,67.5,32.5
+2021,Peru,67.1,32.9
+2021,Brazil,67.0,33.0
+2021,Cameroon,66.6,33.4
+2021,Angola,66.4,33.6
+2021,Namibia,64.7,35.3
+2021,Argentina,64.1,35.9
+2021,Nigeria,63.8,36.2
+2021,Bangladesh,63.4,36.6
+2021,Mozambique,62.8,37.2
+2021,Bahamas,62.5,37.5
+2021,Puerto Rico,62.2,37.8
+2021,Us Virgin Islands,60.9,39.1
+2021,Dominican Republic,60.9,39.1
+2021,Libya,60.3,39.7
+2021,North Korea,60.3,39.7
+2021,Zimbabwe,59.7,40.3
+2021,Belarus,58.4,41.6
+2021,Bolivia,58.3,41.7
+2021,Guatemala,58.3,41.7
+2021,Somalia,58.0,42.0
+2021,Colombia,57.7,42.3
+2021,Ecuador,57.2,42.8
+2021,Kyrgyzstan,56.6,43.4
+2021,Tanzania,56.3,43.7
+2021,Uganda,56.2,43.8
+2021,Kenya,56.2,43.8
+2021,Malaysia,55.7,44.3
+2021,Fiji,55.6,44.4
+2021,Maldives,54.7,45.3
+2021,Chile,54.0,46.0
+2021,Costa Rica,53.9,46.1
+2021,Algeria,53.8,46.2
+2021,Mongolia,53.7,46.3
+2021,Mexico,53.7,46.3
+2021,Kazakhstan,53.4,46.6
+2021,France,52.4,47.6
+2021,Botswana,52.4,47.6
+2021,Belize,51.5,48.5
+2021,Uruguay,51.4,48.6
+2021,Cambodia,50.7,49.3
+2021,Ethiopia,50.1,49.9
+2021,Paraguay,49.2,50.8
+2021,Iran,49.1,50.9
+2021,Morocco,49.1,50.9
+2021,Sweden,49.0,51.0
+2021,Mauritius,48.9,51.1
+2021,United States,48.2,51.8
+2021,Nicaragua,47.9,52.1
+2021,Moldova,47.4,52.6
+2021,Greece,47.4,52.6
+2021,Iraq,47.0,53.0
+2021,Ukraine,46.9,53.1
+2021,Lebanon,46.9,53.1
+2021,Ghana,46.8,53.2
+2021,Egypt,46.6,53.4
+2021,Barbados,46.6,53.4
+2021,Myanmar,46.5,53.5
+2021,United Kingdom,46.5,53.5
+2021,Zambia,46.3,53.7
+2021,Indonesia,46.1,53.9
+2021,Albania,46.1,53.9
+2021,Vietnam,45.8,54.2
+2021,Ireland,45.5,54.5
+2021,Belgium,45.4,54.6
+2021,Italy,45.2,54.8
+2021,India,44.6,55.4
+2021,Sudan,44.6,55.4
+2021,Tunisia,44.3,55.7
+2021,Panama,43.9,56.1
+2021,Australia,43.8,56.2
+2021,New Zealand,43.3,56.7
+2021,Palestine,43.2,56.8
+2021,Canada,42.9,57.1
+2021,Philippines,42.3,57.7
+2021,Kosovo (Disputed Territory),42.3,57.7
+2021,Bosnia And Herzegovina,42.2,57.8
+2021,Pakistan,42.0,58.0
+2021,Sri Lanka,41.2,58.8
+2021,Montenegro,41.1,58.9
+2021,North Macedonia,40.9,59.1
+2021,Malta,40.8,59.2
+2021,Jordan,40.2,59.8
+2021,Turkey,39.7,60.3
+2021,Russia,39.6,60.4
+2021,Thailand,39.3,60.7
+2021,Bulgaria,38.7,61.3
+2021,Latvia,38.7,61.3
+2021,Serbia,38.3,61.7
+2021,Nepal,37.5,62.5
+2021,Germany,36.4,63.6
+2021,Luxembourg,35.7,64.3
+2021,Hungary,34.3,65.7
+2021,Spain,33.9,66.1
+2021,Norway,33.8,66.2
+2021,Uzbekistan,33.8,66.2
+2021,Kuwait,33.4,66.6
+2021,Lithuania,33.3,66.7
+2021,Azerbaijan,32.3,67.7
+2021,Israel,32.1,67.9
+2021,Cyprus,32.1,67.9
+2021,Cuba,30.9,69.1
+2021,Portugal,30.6,69.4
+2021,Slovakia,30.2,69.8
+2021,Poland,29.8,70.2
+2021,China,29.4,70.6
+2021,Brunei,29.0,71.0
+2021,Romania,28.8,71.2
+2021,Netherlands,27.9,72.1
+2021,Singapore,27.6,72.4
+2021,Finland,27.3,72.7
+2021,Denmark,26.6,73.4
+2021,South Korea,26.5,73.5
+2021,Austria,26.1,73.9
+2021,Czech Republic,25.5,74.5
+2021,Monaco,25.1,74.9
+2021,Saudi Arabia,24.7,75.3
+2021,Bahrain,24.4,75.6
+2021,Rwanda,24.3,75.7
+2021,Georgia,24.3,75.7
+2021,Croatia,24.1,75.9
+2021,Estonia,23.8,76.2
+2021,Iceland,23.5,76.5
+2021,Slovenia,22.7,77.3
+2021,Armenia,22.1,77.9
+2021,Japan,22.1,77.9
+2021,Hong Kong,21.9,78.1
+2021,Switzerland,21.7,78.3
+2021,Oman,20.0,80.0
+2021,Isle Of Man,18.6,81.4
+2021,Taiwan,15.9,84.1
+2021,United Arab Emirates,15.1,84.9
+2021,Qatar,13.8,86.2
+2020,Venezuela,83.2,16.8
+2020,Papua New Guinea,79.9,20.1
+2020,Honduras,76.8,23.2
+2020,South Africa,76.8,23.2
+2020,Afghanistan,76.6,23.4
+2020,Trinidad And Tobago,74.0,26.0
+2020,Brazil,70.2,29.8
+2020,Namibia,68.7,31.3
+2020,El Salvador,68.1,31.9
+2020,Kazakhstan,66.5,33.5
+2020,Bangladesh,65.8,34.2
+2020,Puerto Rico,65.5,34.5
+2020,Peru,65.3,34.7
+2020,Jamaica,65.3,34.7
+2020,Nigeria,64.4,35.6
+2020,Syria,63.6,36.4
+2020,Argentina,62.6,37.4
+2020,Dominican Republic,61.4,38.6
+2020,Malaysia,60.8,39.2
+2020,Somalia,60.1,39.9
+2020,Mongolia,59.8,40.2
+2020,Libya,59.2,40.8
+2020,Tanzania,59.0,41.0
+2020,Costa Rica,56.1,43.9
+2020,Guatemala,55.9,44.1
+2020,Kenya,54.8,45.2
+2020,Maldives,53.3,46.7
+2020,Bolivia,53.3,46.7
+2020,Uganda,53.3,46.7
+2020,Mexico,52.3,47.7
+2020,Uruguay,52.0,48.0
+2020,Ghana,51.9,48.1
+2020,Zimbabwe,51.8,48.2
+2020,Cambodia,51.3,48.7
+2020,Colombia,51.3,48.7
+2020,Egypt,50.7,49.3
+2020,Morocco,50.2,49.8
+2020,Sweden,49.3,50.7
+2020,Iran,49.3,50.7
+2020,Ecuador,49.0,51.0
+2020,Ukraine,48.9,51.1
+2020,Vietnam,48.8,51.2
+2020,Algeria,48.3,51.7
+2020,Ethiopia,47.2,52.8
+2020,United States,47.1,52.9
+2020,Chile,46.8,53.2
+2020,Mauritius,46.8,53.2
+2020,Pakistan,46.7,53.3
+2020,Thailand,46.7,53.3
+2020,Panama,46.4,53.6
+2020,France,46.4,53.6
+2020,Indonesia,46.0,54.0
+2020,Iraq,45.6,54.4
+2020,China,45.5,54.5
+2020,Moldova,45.4,54.6
+2020,Italy,45.0,55.0
+2020,Ireland,44.5,55.5
+2020,Lebanon,44.3,55.7
+2020,Jordan,43.8,56.2
+2020,Bosnia And Herzegovina,43.8,56.2
+2020,Australia,42.8,57.2
+2020,United Kingdom,42.7,57.3
+2020,India,42.7,57.3
+2020,Belgium,42.5,57.5
+2020,Tunisia,42.3,57.7
+2020,Russia,41.9,58.1
+2020,Sri Lanka,41.0,59.0
+2020,Philippines,40.8,59.2
+2020,Montenegro,40.5,59.5
+2020,Turkey,40.4,59.6
+2020,Albania,40.3,59.7
+2020,Bulgaria,40.0,60.0
+2020,New Zealand,39.6,60.4
+2020,Canada,39.5,60.5
+2020,North Macedonia,39.3,60.7
+2020,Greece,38.6,61.4
+2020,Serbia,37.3,62.7
+2020,Palestine,37.0,63.0
+2020,Latvia,36.8,63.2
+2020,Lithuania,36.5,63.5
+2020,Nepal,36.4,63.6
+2020,Norway,35.3,64.7
+2020,Hungary,35.2,64.8
+2020,Germany,34.5,65.5
+2020,South Korea,34.0,66.0
+2020,Kuwait,33.9,66.1
+2020,Malta,33.5,66.5
+2020,Bahrain,32.9,67.1
+2020,Spain,32.5,67.5
+2020,Israel,32.2,67.8
+2020,Portugal,32.1,67.9
+2020,Azerbaijan,31.7,68.3
+2020,Poland,30.1,69.9
+2020,Saudi Arabia,29.7,70.3
+2020,Slovakia,29.5,70.5
+2020,Cyprus,29.3,70.7
+2020,Luxembourg,29.1,70.9
+2020,Netherlands,28.6,71.4
+2020,Romania,27.8,72.2
+2020,Czech Republic,26.7,73.3
+2020,Croatia,24.7,75.3
+2020,Denmark,24.2,75.8
+2020,Belarus,23.5,76.5
+2020,Iceland,23.3,76.7
+2020,Oman,22.8,77.2
+2020,Finland,22.8,77.2
+2020,Slovenia,22.6,77.4
+2020,Armenia,22.0,78.0
+2020,Switzerland,21.5,78.5
+2020,Singapore,21.5,78.5
+2020,Austria,21.4,78.6
+2020,Estonia,20.8,79.2
+2020,Georgia,19.9,80.1
+2020,Hong Kong,19.3,80.7
+2020,Taiwan,17.4,82.6
+2020,United Arab Emirates,16.3,83.7
+2020,Japan,13.7,86.3
+2020,Qatar,13.3,86.7
+2019,Venezuela,82.6,17.4
+2019,Papua New Guinea,80.0,20.0
+2019,Honduras,78.9,21.1
+2019,South Africa,75.7,24.3
+2019,Trinidad And Tobago,72.2,27.8
+2019,Brazil,70.6,29.4
+2019,El Salvador,69.7,30.3
+2019,Bangladesh,68.5,31.5
+2019,Namibia,68.2,31.8
+2019,Syria,67.7,32.3
+2019,Jamaica,66.9,33.1
+2019,Puerto Rico,64.9,35.1
+2019,Peru,63.9,36.1
+2019,Nigeria,63.1,36.9
+2019,Malaysia,63.1,36.9
+2019,Mongolia,62.6,37.4
+2019,Argentina,61.8,38.2
+2019,Dominican Republic,61.5,38.5
+2019,Tanzania,59.8,40.2
+2019,Kenya,59.8,40.2
+2019,Guatemala,59.3,40.7
+2019,Libya,56.7,43.3
+2019,Zimbabwe,54.6,45.4
+2019,Cambodia,54.4,45.6
+2019,Costa Rica,53.9,46.1
+2019,Egypt,53.7,46.3
+2019,Bolivia,52.9,47.1
+2019,Vietnam,52.2,47.8
+2019,Uruguay,51.8,48.2
+2019,Maldives,51.7,48.3
+2019,Pakistan,51.2,48.8
+2019,Mexico,51.1,48.9
+2019,Algeria,50.7,49.3
+2019,Colombia,50.7,49.3
+2019,United States,49.6,50.4
+2019,Iran,49.4,50.6
+2019,Ukraine,49.4,50.6
+2019,Sweden,49.3,50.7
+2019,Ecuador,49.2,50.8
+2019,Lebanon,49.2,50.8
+2019,Kazakhstan,49.2,50.8
+2019,Morocco,48.5,51.5
+2019,Panama,48.4,51.6
+2019,Mauritius,48.3,51.7
+2019,Ethiopia,47.7,52.3
+2019,Thailand,47.3,52.7
+2019,Chile,46.5,53.5
+2019,Moldova,45.7,54.3
+2019,France,45.3,54.7
+2019,Russia,45.2,54.8
+2019,Ghana,45.0,55.0
+2019,Indonesia,44.7,55.3
+2019,Jordan,44.5,55.5
+2019,Italy,44.5,55.5
+2019,India,44.2,55.8
+2019,Ireland,43.8,56.2
+2019,Iraq,43.3,56.7
+2019,Norway,43.3,56.7
+2019,Australia,42.5,57.5
+2019,Belgium,42.2,57.8
+2019,Sri Lanka,41.7,58.3
+2019,United Kingdom,41.2,58.8
+2019,Turkey,41.1,58.9
+2019,Tunisia,40.4,59.6
+2019,North Macedonia,40.2,59.8
+2019,Philippines,40.1,59.9
+2019,Bosnia And Herzegovina,40.1,59.9
+2019,Albania,39.9,60.1
+2019,Bulgaria,39.7,60.3
+2019,Nepal,39.5,60.5
+2019,China,39.4,60.6
+2019,Canada,39.3,60.7
+2019,New Zealand,39.2,60.8
+2019,Greece,39.1,60.9
+2019,Palestine,37.9,62.1
+2019,Serbia,37.8,62.2
+2019,Lithuania,37.6,62.4
+2019,Montenegro,37.5,62.5
+2019,Kuwait,37.0,63.0
+2019,Bahrain,37.0,63.0
+2019,Israel,36.9,63.1
+2019,Latvia,36.9,63.1
+2019,Spain,36.7,63.3
+2019,Saudi Arabia,36.7,63.3
+2019,Germany,36.7,63.3
+2019,Hungary,36.5,63.5
+2019,Poland,36.2,63.8
+2019,South Korea,35.8,64.2
+2019,Portugal,34.5,65.5
+2019,Luxembourg,32.1,67.9
+2019,Malta,31.9,68.1
+2019,Azerbaijan,30.5,69.5
+2019,Cyprus,30.2,69.8
+2019,Slovakia,30.2,69.8
+2019,Romania,29.0,71.0
+2019,Netherlands,28.9,71.1
+2019,Czech Republic,28.8,71.2
+2019,Armenia,28.3,71.7
+2019,Oman,27.4,72.6
+2019,Croatia,27.0,73.0
+2019,Belarus,26.6,73.4
+2019,Slovenia,24.7,75.3
+2019,Iceland,24.5,75.5
+2019,Finland,23.7,76.3
+2019,Denmark,22.0,78.0
+2019,Switzerland,21.8,78.2
+2019,Hong Kong,20.9,79.1
+2019,Estonia,20.8,79.2
+2019,Taiwan,20.7,79.3
+2019,Austria,20.4,79.6
+2019,Georgia,20.3,79.7
+2019,United Arab Emirates,18.7,81.3
+2019,Singapore,16.2,83.8
+2019,Qatar,15.7,84.3
+2019,Japan,13.1,86.9
+2018,Venezuela,85.3,14.7
+2018,Papua New Guinea,82.4,17.6
+2018,Honduras,78.3,21.7
+2018,South Sudan,78.2,21.8
+2018,South Africa,75.7,24.3
+2018,Afghanistan,73.9,26.1
+2018,El Salvador,71.6,28.4
+2018,Nigeria,70.9,29.1
+2018,Brazil,70.6,29.4
+2018,Trinidad And Tobago,70.2,29.8
+2018,Puerto Rico,69.2,30.8
+2018,Mongolia,67.6,32.4
+2018,Jamaica,67.5,32.5
+2018,Bangladesh,67.2,32.8
+2018,Syria,66.3,33.7
+2018,Angola,65.5,34.5
+2018,Kenya,65.0,35.0
+2018,Malaysia,64.8,35.2
+2018,Peru,63.3,36.7
+2018,Bahamas,63.2,36.8
+2018,Namibia,63.1,36.9
+2018,Argentina,62.6,37.4
+2018,Dominican Republic,62.6,37.4
+2018,Tanzania,61.4,38.6
+2018,Guatemala,59.6,40.4
+2018,Bolivia,59.5,40.5
+2018,Somalia,58.8,41.2
+2018,Botswana,58.2,41.8
+2018,Uganda,56.9,43.1
+2018,Costa Rica,55.9,44.1
+2018,Fiji,55.6,44.4
+2018,Cambodia,54.6,45.4
+2018,Libya,54.5,45.5
+2018,Pakistan,54.4,45.6
+2018,Iraq,54.3,45.7
+2018,Zimbabwe,53.5,46.5
+2018,Vietnam,53.0,47.0
+2018,Egypt,52.9,47.1
+2018,Colombia,51.7,48.3
+2018,Uruguay,51.6,48.4
+2018,Ukraine,51.3,48.7
+2018,Mauritius,51.1,48.9
+2018,Iran,50.9,49.1
+2018,Ecuador,50.9,49.1
+2018,Mexico,50.3,49.7
+2018,Panama,50.0,50.0
+2018,Thailand,49.8,50.2
+2018,Indonesia,49.7,50.3
+2018,Algeria,49.6,50.4
+2018,Ethiopia,49.2,50.8
+2018,Lebanon,49.2,50.8
+2018,Morocco,48.9,51.1
+2018,United States,48.8,51.2
+2018,Kazakhstan,48.3,51.7
+2018,Chile,47.5,52.5
+2018,Ghana,47.0,53.0
+2018,Maldives,47.0,53.0
+2018,Sweden,46.6,53.4
+2018,Russia,46.1,53.9
+2018,Ireland,45.8,54.2
+2018,Norway,45.7,54.3
+2018,Moldova,45.4,54.6
+2018,Italy,44.7,55.3
+2018,Belgium,44.5,55.5
+2018,Albania,44.3,55.7
+2018,India,44.0,56.0
+2018,France,43.7,56.3
+2018,Jordan,43.1,56.9
+2018,Australia,42.4,57.6
+2018,United Kingdom,41.2,58.8
+2018,Turkey,41.1,58.9
+2018,Bosnia And Herzegovina,41.0,59.0
+2018,Tunisia,40.9,59.1
+2018,Greece,40.3,59.7
+2018,Bulgaria,40.2,59.8
+2018,Lithuania,40.0,60.0
+2018,Philippines,39.8,60.2
+2018,Canada,39.2,60.8
+2018,New Zealand,38.8,61.2
+2018,Montenegro,38.7,61.3
+2018,North Macedonia,38.7,61.3
+2018,Serbia,38.6,61.4
+2018,Hungary,38.4,61.6
+2018,Palestine,38.0,62.0
+2018,Nepal,37.2,62.8
+2018,Latvia,36.5,63.5
+2018,Brunei,36.1,63.9
+2018,Portugal,35.4,64.6
+2018,Bahrain,35.3,64.7
+2018,Sudan,35.0,65.0
+2018,Sri Lanka,34.6,65.4
+2018,China,33.9,66.1
+2018,Kuwait,33.5,66.5
+2018,Cyprus,32.5,67.5
+2018,Germany,32.0,68.0
+2018,Poland,31.5,68.5
+2018,Spain,31.3,68.7
+2018,Malta,30.6,69.4
+2018,Czech Republic,30.2,69.8
+2018,Slovakia,30.2,69.8
+2018,Netherlands,29.9,70.1
+2018,Luxembourg,29.0,71.0
+2018,Israel,29.0,71.0
+2018,Romania,27.9,72.1
+2018,Croatia,27.8,72.2
+2018,Iceland,27.5,72.5
+2018,Armenia,27.1,72.9
+2018,Azerbaijan,27.1,72.9
+2018,South Korea,25.3,74.7
+2018,Finland,24.6,75.4
+2018,Oman,24.5,75.5
+2018,Slovenia,24.1,75.9
+2018,Saudi Arabia,23.6,76.4
+2018,Estonia,23.0,77.0
+2018,Switzerland,22.4,77.6
+2018,Belarus,22.3,77.7
+2018,Denmark,21.1,78.9
+2018,Japan,20.9,79.1
+2018,Georgia,20.8,79.2
+2018,Hong Kong,20.7,79.3
+2018,United Arab Emirates,20.7,79.3
+2018,Austria,19.2,80.8
+2018,Taiwan,17.2,82.8
+2018,Singapore,16.6,83.4
+2018,Qatar,15.7,84.3
